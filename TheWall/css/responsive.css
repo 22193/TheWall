@@ -1,0 +1,10 @@
+ @media only screen and (max-device-width: 786px) and (-webkit-min-device-pixel-ratio: 2) {
+    .footer-about div {
+        column-count: 1;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+    }
+}
+
+
+    
